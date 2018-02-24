@@ -10,4 +10,4 @@ def input_to_index(board)
 
 
 
-end  
+end
